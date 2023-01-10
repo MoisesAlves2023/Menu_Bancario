@@ -1,0 +1,8 @@
+03/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
+04/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
+05/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
+06/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
+07/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
+08/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
+09/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
+10/01/2023, Mecanica,m135,filtro de agua com defeito,comprar filtro e trocar,Parada,nada,Irineu
